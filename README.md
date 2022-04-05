@@ -19,6 +19,9 @@ The purpose of this analysis is to take the election results by candidate from t
     * Winner: Diana DeGette
     * Winning Vote Count: 272,892
     * Winning Percentage: 73.8%
-  <p align="Center">
-  <img src="" width="700"/>
+  <p align="Left">
+  <img src="https://github.com/armyofkittens/Election_Analysis/blob/main/Resources/Results.png" width="350"/>
 </p>
+
+## Election Audit Summary
+This script can scale from county to state or national elections. Additionally, should a recount be requested this script could be modified to ensure ballots were only counted once by extracting the ballot ID, or the data can be broken down even further to show candidate votes by county. 
